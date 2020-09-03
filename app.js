@@ -4,7 +4,7 @@ const app = express();
 
 
 //--------------------- Middleware ------------------------
-app.use('/', express.static('static'));
+app.use(express.static("static"));
 //---------------------------------------------------------
 
 app.get("/status", function (req, res) {
