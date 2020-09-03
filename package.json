@@ -1,0 +1,16 @@
+  
+{
+  "name": "beatbox app",
+  "version": "1.0.0",
+  "description": "Beatbox app made with JavaScript OOP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andrew Ramanjooloo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
