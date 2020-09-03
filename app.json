@@ -1,0 +1,7 @@
+{
+  "name": "BeatBoxJS APP",
+  "description": "a simple beatbox app built with JavaScript OOP, deployed with express.js",
+  "repository": "https://github.com/HobbyTransform/expressjs-beatbox-app",
+  "logo": "",
+  "keywords": ["JavaScript", "OOP", "Beatbox"]
+}
